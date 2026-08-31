@@ -268,7 +268,7 @@ function mousePressed() {
 
 
     // hati bertambah besar
-    heartSize += 10;
+    heartSize += 2;
 
 
 
